@@ -48,8 +48,7 @@
 </div>
 
 ### ***Контакты:***
-### 📧 Почта: igrtnsk@yandex.ru
-### 🌐 Jabber: igrtnsk@jabber.ru
+### 📧 Почта: teplostanski@yandex.ru
 
 ![stats](https://komarev.com/ghpvc/?username=r0bomurlok&style=flat-square&color=blueviolet)
 
