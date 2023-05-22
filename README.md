@@ -27,29 +27,16 @@
 ### 🔨 ***Используемые языки и технологии:***
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![Vte](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=Vite)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
+![Astro](https://img.shields.io/badge/-AstroJS-0d1117?style=for-the-badge&logo=Astro)
+![MobX](https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=MobX)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
- ----
-### 🏆 ***Моя статистика:***
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0bomurlok&theme=github_dark">
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r0bomurlok&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r0bomurlok&theme=github_dark">
-</div>
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r0bomurlok&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r0bomurlok&theme=github_dark&utcOffset=3">
-</div>
-
 ### ***Контакты:***
 ### 📧 Почта: teplostanski@yandex.ru
-
-![stats](https://komarev.com/ghpvc/?username=r0bomurlok&style=flat-square&color=blueviolet)
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
