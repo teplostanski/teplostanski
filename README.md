@@ -23,17 +23,18 @@
   
 
 ### 🔨 ***Используемые языки и технологии:***
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass)
-![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+
 ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+![ReactJS](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=Next.js)
+![Astro](https://img.shields.io/badge/-Astrо-0d1117?style=for-the-badge&logo=Astro)
+![MobX](https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=MobX)
+![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 ![Vte](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=Vite)
-![ReactJS](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=Next.js)
-![Astro](https://img.shields.io/badge/-Astro.js-0d1117?style=for-the-badge&logo=Astro)
-![MobX](https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=MobX)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
