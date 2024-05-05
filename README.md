@@ -40,7 +40,20 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-![Codewars](https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<br>
+
+<div align="center">
+  <img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=teplostanski" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=teplostanski" height="150" alt="languages graph"  />
+</div>
+
+<br>
 
 ### ***Контакты:***
 ### Телеграм: @teplostanski
