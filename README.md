@@ -42,7 +42,7 @@
 
 <br>
 
-# Мои NPM Пакеты
+# ![Мои NPM Пакеты](https://img.shields.io/badge/-мои%20npm%20пакеты-0d1117?style=for-the-badge&logo=npm)
 
 ![NPM Version](https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames)
 ![NPM Downloads](https://img.shields.io/npm/d18m/vite-plugin-pretty-module-classnames?style=for-the-badge)
@@ -50,15 +50,15 @@
 ![NPM Version](https://img.shields.io/npm/v/nche?style=for-the-badge&label=nche)
 ![NPM Downloads](https://img.shields.io/npm/d18m/nche?style=for-the-badge)
 
-<br>
-
-  <img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=true&stroke=%230d1117&theme=purple_dark">
 
 <br>
 
+### Статистика
 <a href="http://www.github.com/teplostanski"><img src="https://github-readme-stats.vercel.app/api?username=teplostanski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="teplostanski's GitHub stats" /></a>
 
 <a href="https://github.com/teplostanski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplostanski&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20%Languages" alt="languages graph" /></a>
+
+<img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=true&stroke=%230d1117&theme=gradient">
 
 <br>
 
