@@ -42,6 +42,16 @@
 
 <br>
 
+# Мои NPM Пакеты
+
+![NPM Version](https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames)
+![NPM Downloads](https://img.shields.io/npm/d18m/vite-plugin-pretty-module-classnames?style=for-the-badge)
+
+![NPM Version](https://img.shields.io/npm/v/nche?style=for-the-badge&label=nche)
+![NPM Downloads](https://img.shields.io/npm/d18m/nche?style=for-the-badge)
+
+<br>
+
 <div align="center">
   <img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark">
 </div>
