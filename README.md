@@ -1,18 +1,14 @@
-<p>
-  <h1 align="center">Всем привет! Меня зовут 
+<div  align="center">
+  <h1>Привет! Я 
     <a href="https://github.com/teplostanski" target="_blank">
       Игорь
     </a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
-  </h1>
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?size=24&&color=1384F7FF&width=500&height=40&font=Fira%20Code&lines=%D0%AF+frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA">
-    </a>
-  </p>
-</p>
+</h1>
+  <h2>Frontend Developer</h2>
+</div>
 
-### ***О себе:***
+### О себе:
 * 👨‍💻 Стараюсь писать чистый, читабельный код
   
 * 😎 Хочу работать в команде опытных профессионалов
@@ -22,7 +18,7 @@
 * 🔥 Хочу работать над эстетически красивыми проектами
   
 
-### 🔨 ***Используемые языки и технологии:***
+### Мой стэк
 
 ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
@@ -56,7 +52,7 @@
 ### Статистика
 <a href="http://www.github.com/teplostanski"><img src="https://github-readme-stats.vercel.app/api?username=teplostanski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="teplostanski's GitHub stats" /></a>
 
-<a href="https://github.com/teplostanski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplostanski&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20%Languages" alt="languages graph" /></a>
+<a href="https://github.com/teplostanski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplostanski&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20%Languages" alt="languages graph" /></a>
 
 <img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=true&stroke=%230d1117&theme=gradient">
 
