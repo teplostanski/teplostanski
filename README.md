@@ -43,9 +43,8 @@
 [<img src="https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames" alt="NPM Version">
 <img src="https://img.shields.io/npm/d18m/vite-plugin-pretty-module-classnames?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
 
-![NPM Version](https://img.shields.io/npm/v/nche?style=for-the-badge&label=nche)
-![NPM Downloads](https://img.shields.io/npm/d18m/nche?style=for-the-badge)
-
+[<img src="https://img.shields.io/npm/v/nche?style=for-the-badge&label=nche" alt="NPM Version">
+<img src="https://img.shields.io/npm/d18m/nche?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/nche)
 
 <br>
 
