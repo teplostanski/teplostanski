@@ -6,6 +6,12 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
 </h1>
   <h2>Frontend Developer</h2>
+
+[<img src="https://img.shields.io/badge/-teplostanski@yandex.ru-0d1117?style=for-the-badge&logo=maildotru">](mailto:teplostanski@yandex.ru)
+[<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=for-the-badge&logo=Telegram">](https://t.me/teplostanski)
+[<img src="https://img.shields.io/badge/-stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow">](https://stackoverflow.com/users/21089931/teplostanski)
+[<img src="https://img.shields.io/badge/-ru.stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow&logoColor=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
+[<img src="https://img.shields.io/badge/-codewars.com-0d1117?style=for-the-badge&logo=Codewars&logoColor=%23B1361E">](https://www.codewars.com/users/teplostanski) [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski)
 </div>
 
 ### О себе:
@@ -60,10 +66,6 @@
 
 ### Контакты:
 
-<a href="mailto:teplostanski@yandex.ru">teplostanski@yandex.ru</a>
+Email: [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
 
-[<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=for-the-badge&logo=Telegram">](https://t.me/teplostanski)
-
-[<img src="https://img.shields.io/badge/-stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow">](https://stackoverflow.com/users/21089931/teplostanski)
-
-[<img src="https://img.shields.io/badge/-ru.stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow&logoColor=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
+Telegram: [@teplostanski](https://t.me/teplostanski)
