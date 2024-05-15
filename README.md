@@ -59,7 +59,7 @@
 <div align="center">
 <a href="http://www.github.com/teplostanski"><img src="https://github-readme-stats.vercel.app/api?username=teplostanski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="teplostanski's GitHub stats" /></a>
 <a href="https://github.com/teplostanski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplostanski&layout=compact&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20%Languages" alt="languages graph" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teplostanski&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teplostanski&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=ru" />
 </div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teplostanski&theme=github-compact&height=300&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
