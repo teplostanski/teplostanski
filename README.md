@@ -12,6 +12,7 @@
 [<img src="https://img.shields.io/badge/-stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow">](https://stackoverflow.com/users/21089931/teplostanski)
 [<img src="https://img.shields.io/badge/-ru.stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow&logoColor=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
 [<img src="https://img.shields.io/badge/-codewars.com-0d1117?style=for-the-badge&logo=Codewars&logoColor=%23B1361E">](https://www.codewars.com/users/teplostanski) [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski)
+[<img src="https://img.shields.io/badge/-habr.com-0d1117?style=for-the-badge&logo=Habr&logoColor=%2365A3BE">](https://habr.com/ru/users/teplostanski/publications/articles/)
 </div>
 
 ### О себе:
