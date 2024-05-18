@@ -72,6 +72,6 @@
 
 ### Контакты:
 
-Email: [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
+✉️ Email: [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
 
-Telegram: [@teplostanski](https://t.me/teplostanski)
+📬 Telegram: [@teplostanski](https://t.me/teplostanski)
