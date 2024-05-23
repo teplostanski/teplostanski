@@ -43,17 +43,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<br>
-
-# ![Мои NPM Пакеты](https://img.shields.io/badge/-мои%20npm%20пакеты-0d1117?style=for-the-badge&logo=npm)
+### <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="20"> Мои NPM пакеты
 
 [<img src="https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames" alt="NPM Version">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
 [<img src="https://img.shields.io/npm/d18m/vite-plugin-pretty-module-classnames?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
 
 [<img src="https://img.shields.io/npm/v/nche?style=for-the-badge&label=nche" alt="NPM Version">](https://www.npmjs.com/package/nche)
 [<img src="https://img.shields.io/npm/d18m/nche?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/nche)
-
-<br>
 
 ### Статистика
 
