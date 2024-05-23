@@ -63,11 +63,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=teplostanski&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=ru" />
 </div>
 
+<!--
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teplostanski&theme=github-compact&height=300&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=false&stroke=%230d1117">
 
 <br>
+-->
 
 ### Контакты:
 
