@@ -48,8 +48,8 @@
 [<img src="https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames" alt="NPM Version">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
 [<img src="https://img.shields.io/npm/d18m/vite-plugin-pretty-module-classnames?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
 
-[<img src="https://img.shields.io/npm/v/nche?style=for-the-badge&label=nche" alt="NPM Version">](https://www.npmjs.com/package/nche)
-[<img src="https://img.shields.io/npm/d18m/nche?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/nche)
+[<img src="https://img.shields.io/npm/v/imonline?style=for-the-badge&label=imonline" alt="NPM Version">](https://www.npmjs.com/package/imonline)
+[<img src="https://img.shields.io/npm/d18m/imonline?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/imonline)
 
 ### Статистика
 
