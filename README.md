@@ -46,10 +46,10 @@
 ### <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="20"> Мои NPM пакеты
 
 [<img src="https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames" alt="NPM Version">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
-[<img src="https://img.shields.io/npm/d18m/vite-plugin-pretty-module-classnames?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
+[<img src="https://img.shields.io/npm/dw/vite-plugin-pretty-module-classnames?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
 
 [<img src="https://img.shields.io/npm/v/imonline?style=for-the-badge&label=imonline" alt="NPM Version">](https://www.npmjs.com/package/imonline)
-[<img src="https://img.shields.io/npm/d18m/imonline?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/imonline)
+[<img src="https://img.shields.io/npm/dw/imonline?style=for-the-badge" alt="NPM Downloads">](https://www.npmjs.com/package/imonline)
 
 ### Статистика
 
