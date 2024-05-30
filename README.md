@@ -12,6 +12,7 @@
 [<img src="https://img.shields.io/badge/-stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow">](https://stackoverflow.com/users/21089931/teplostanski)
 [<img src="https://img.shields.io/badge/-ru.stackoverflow.com-0d1117?style=for-the-badge&logo=Stackoverflow&logoColor=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
 [<img src="https://img.shields.io/badge/-codewars.com-0d1117?style=for-the-badge&logo=Codewars&logoColor=%23B1361E">](https://www.codewars.com/users/teplostanski) [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski)
+[<img src="https://img.shields.io/badge/-gists-0d1117?style=for-the-badge&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski)
 [<img src="https://img.shields.io/badge/-doka.guide-0d1117?style=for-the-badge">](https://doka.guide/people/teplostanski/)
 </div>
 
