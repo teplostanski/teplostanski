@@ -9,8 +9,7 @@
 
 [<img src="https://img.shields.io/badge/-teplostanski@yandex.ru-0d1117?style=for-the-badge&logo=maildotru">](mailto:teplostanski@yandex.ru)
 [<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=for-the-badge&logo=Telegram">](https://t.me/teplostanski)
-[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21089931?style=for-the-badge&logo=stackoverflow&label=stackoverflow.com&labelColor=0d1117&color=%231E5397">
-](https://stackoverflow.com/users/21089931/teplostanski)
+[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21089931?style=for-the-badge&logo=stackoverflow&label=stackoverflow.com&labelColor=0d1117&color=%231E5397">](https://stackoverflow.com/users/21089931/teplostanski)
 [<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow/r/539700?style=for-the-badge&logo=stackoverflow&logoColor=1E5397&label=ru.stackoverflow.com&labelColor=0d1117&color=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
 [<img src="https://img.shields.io/badge/-codewars.com-0d1117?style=for-the-badge&logo=Codewars&logoColor=%23B1361E">](https://www.codewars.com/users/teplostanski) [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski)
 [<img src="https://img.shields.io/badge/-gists-0d1117?style=for-the-badge&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski)
