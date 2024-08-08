@@ -76,3 +76,7 @@
 ✉️ Email: [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
 
 📬 Telegram: [@teplostanski](https://t.me/teplostanski)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=blue)
