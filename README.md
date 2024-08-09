@@ -79,4 +79,4 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=07912E)
