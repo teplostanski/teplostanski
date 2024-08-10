@@ -3,7 +3,7 @@
     <a href="https://github.com/teplostanski" target="_blank">
       Игорь
     </a> 
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+    <img src="https://github.com/teplostanski/teplostanski/raw/main/Hi.gif" height="32">
     Frontend Developer 👨🏻‍💻
 </h1>
   
