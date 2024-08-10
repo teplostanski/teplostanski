@@ -79,4 +79,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=07912E)
+<div align="end">
+  <img src="https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=07912E">
+</div>
