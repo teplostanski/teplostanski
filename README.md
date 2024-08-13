@@ -46,6 +46,7 @@
 ![Vte](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Oclif](https://img.shields.io/badge/oclif-%23FFFFFF.svg?style=for-the-badge&logo=oclif&logoColor=%23000000)
 
 ### <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="20"> Мои NPM пакеты
 
