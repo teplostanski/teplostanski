@@ -9,7 +9,6 @@
   
 [<img src="https://img.shields.io/badge/-teplostanski@yandex.ru-0d1117?style=flat-square&logo=maildotru">](mailto:teplostanski@yandex.ru) 
 [<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=flat-square&logo=Telegram">](https://t.me/teplostanski) 
-[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21089931?style=flat-square&logo=stackoverflow&label=stackoverflow.com&labelColor=0d1117&color=%231E5397">](https://stackoverflow.com/users/21089931/teplostanski) 
 [<img src="https://img.shields.io/badge/-codewars.com-0d1117?style=flat-square&logo=Codewars&logoColor=%23B1361E">](https://www.codewars.com/users/teplostanski)  [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski) 
 [<img src="https://img.shields.io/badge/-gists-0d1117?style=flat-square&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski) 
 [<img src="https://img.shields.io/badge/-doka.guide-0d1117?style=flat-square">](https://doka.guide/people/teplostanski/)
