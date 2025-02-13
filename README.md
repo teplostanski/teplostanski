@@ -83,7 +83,7 @@
           <strong>Стек:</strong> <code>React, TypeScript, Vite, Tailwind, HeroUI(NextUI), Swiper, Vitest</code><br>
         </p>
         <strong>
-          <a href="https://github.com/teplostanski/masonry-gallery-tailwind">Демо</a>
+          <a href="https://teplostanski.github.io/masonry-gallery-tailwind">Демо</a>
         ·
           <a href="https://github.com/teplostanski/masonry-gallery-tailwind">Репозиторий</a>
         </strong>
@@ -105,7 +105,7 @@
           <strong>Стек:</strong> <code>React, TypeScript, Vite, SCSS Modules, Swiper</code><br>
         </p>
         <strong>
-          <a href="https://github.com/teplostanski/world-events-timeline">Демо</a>
+          <a href="https://teplostanski.github.io/world-events-timeline">Демо</a>
         ·
           <a href="https://github.com/teplostanski/world-events-timeline">Репозиторий</a>
         </strong>
