@@ -9,7 +9,7 @@
   
 [<img src="https://img.shields.io/badge/-igor@teplostanski.dev-0d1117?style=flat-square&logo=maildotru">](mailto:teplostanski@yandex.ru) 
 [<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=flat-square&logo=Telegram">](https://t.me/teplostanski) 
-[<img src="https://img.shields.io/badge/-codewars.com-0d1117?style=flat-square&logo=Codewars&logoColor=%23B1361E">](https://www.codewars.com/users/teplostanski)  [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski) 
+[<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski) 
 [<img src="https://img.shields.io/badge/-gists-0d1117?style=flat-square&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski) 
 [<img src="https://img.shields.io/badge/-doka.guide-0d1117?style=flat-square">](https://doka.guide/people/teplostanski/)
 
@@ -19,14 +19,11 @@
 </div>
 
 ### О себе:
-* 👨‍💻 Стараюсь писать чистый, читабельный код
-  
-* 💾 Создаю npm пакеты
-  
-* 🚀 Осваиваю новые технологии
-  
-* ✍️ Пишу статьи для [Доки](https://doka.guide/people/teplostanski/)
-  
+
+- 👨‍💻 Стараюсь писать чистый, читабельный код
+- 💾 Создаю npm пакеты
+- 🚀 Осваиваю новые технологии
+- ✍️ Пишу статьи для [Доки](https://doka.guide/people/teplostanski/)
 
 ### Мой стэк
 
@@ -45,11 +42,109 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Oclif](https://img.shields.io/badge/oclif-%23FFFFFF.svg?style=for-the-badge&logo=oclif&logoColor=%23000000)
 
-### <img src="https://cdn.simpleicons.org/npm" alt="NPM" width="20"> Мои NPM пакеты
+---
 
-[<img src="https://img.shields.io/npm/v/vite-plugin-pretty-module-classnames?style=for-the-badge&label=vite-plugin-pretty-module-classnames" alt="NPM Version">](https://www.npmjs.com/package/vite-plugin-pretty-module-classnames)
+### Портфолио
 
-[<img src="https://img.shields.io/npm/v/imonline?style=for-the-badge&label=imonline" alt="NPM Version">](https://www.npmjs.com/package/imonline)
+<table>
+  <tbody>
+    <tr>
+      <th colspan="2">Проекты</th>
+    </tr>
+    <tr>
+      <td>
+        <img width="48px" src="https://cdn.simpleicons.org/npm">
+      </td>
+      <td>
+        <p><strong>vite-plugin-pretty-module-classnames</strong></p>
+        <p>
+          Pretty Module Classnames — это плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
+        </p>
+        <p>
+          <strong>Стек:</strong> <code>Typescript, Vite, Vitest</code><br>
+        </p>
+        <strong>
+          <a href="https://www.npmjs.com/package/vite-plugin-pretty-module-classnames">Npmjs.org</a>
+        ·
+          <a href="https://github.com/teplostanski/vite-plugin-pretty-module-classnames">Репозиторий</a>
+        </strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/masonry-gallery-tailwind.png">
+      </td>
+      <td>
+        <p><strong>Masonry Gallery</strong></p>
+        <p>
+          Галерея изображений с плиточной раскладкой в стиле Pinterest. При клике на изображение открывается полноэкранное модальное окно с возможностью перелистывания свайпом.
+        </p>
+        <p>
+          <strong>Стек:</strong> <code>React, TypeScript, Vite, Tailwind, HeroUI(NextUI), Swiper, Vitest</code><br>
+        </p>
+        <strong>
+          <a href="https://github.com/teplostanski/masonry-gallery-tailwind">Демо</a>
+        ·
+          <a href="https://github.com/teplostanski/masonry-gallery-tailwind">Репозиторий</a>
+        </strong>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Тестовые проекты</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/world-events-timeline.png">
+      </td>
+      <td>
+        <p><strong>World Events Timeline</strong></p>
+        <p>
+          Интерактивное веб-приложение для визуализации исторических событий в различных сферах: кино, искусство, наука, литература, музыка и спорт.
+        </p>
+        <p>
+          <strong>Стек:</strong> <code>React, TypeScript, Vite, SCSS Modules, Swiper</code><br>
+        </p>
+        <strong>
+          <a href="https://github.com/teplostanski/world-events-timeline">Демо</a>
+        ·
+          <a href="https://github.com/teplostanski/world-events-timeline">Репозиторий</a>
+        </strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/test-task-fewcha-github-searcher.png">
+      </td>
+      <td>
+        <p><strong>GitHub Searcher</strong></p>
+        <p>Интерактивное React-приложение для просмотра GitHub репозиториев пользователей.</p>
+        <p><strong>Стек:</strong> <code>React, TypeScript, Redux-toolkit, RTK-Query, Vite, Tailwind, HeroUI(NextUI), Vitest</code></p>
+        <strong>
+          <a href="https://teplostanski.github.io/test-task-fewcha-github-searcher/">Демо</a>
+          ·
+          <a href="https://github.com/teplostanski/test-task-fewcha-github-searcher">Репозиторий</a>
+        </strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/test-task-moi-sklad-react-table.png">
+      </td>
+      <td>
+        <p><strong>React Table</strong></p>
+        <p>Таблица пользователей</p>
+        <p><strong>Стек:</strong> <code>React 19, TypeScript, Redux-toolkit, RTK-Query, Vite, CSS Modules, Vitest</code></p>
+        <strong>
+          <a href="https://teplostanski.github.io/test-task-moi-sklad-react-table/">Демо</a>
+          ·
+          <a href="https://github.com/teplostanski/test-task-moi-sklad-react-table">Репозиторий</a>
+        </strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### Статистика
 
