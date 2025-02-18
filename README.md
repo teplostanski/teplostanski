@@ -92,7 +92,7 @@
     <tr>
       <th colspan="2">Тестовые проекты</th>
     </tr>
-    <tr>
+    <!--<tr>
       <td>
         <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/world-events-timeline.png">
       </td>
@@ -110,7 +110,7 @@
           <a href="https://github.com/teplostanski/world-events-timeline">Репозиторий</a>
         </strong>
       </td>
-    </tr>
+    </tr>-->
     <tr>
       <td>
         <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/test-task-fewcha-github-searcher.png">
