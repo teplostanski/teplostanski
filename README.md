@@ -61,7 +61,7 @@
           Pretty Module Classnames — это плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
         </p>
         <p>
-          <strong>Стек:</strong> <code>Typescript, Vite, Vitest</code><br>
+          <strong>Стек:</strong> <code>Typescript, TSDown, Vitest</code><br>
         </p>
         <strong>
           <a href="https://www.npmjs.com/package/vite-plugin-pretty-module-classnames">Npmjs.org</a>
