@@ -58,7 +58,7 @@
       <td>
         <p><strong>vite-plugin-readable-classnames</strong></p>
         <p>
-          Pretty Module Classnames — это плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
+          Readable Classnames — это плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
         </p>
         <p>
           <strong>Стек:</strong> <code>Typescript, TSDown, Vitest</code><br>
