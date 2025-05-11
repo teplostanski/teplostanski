@@ -56,7 +56,7 @@
         <img width="48px" src="https://cdn.simpleicons.org/npm">
       </td>
       <td>
-        <p><strong>vite-plugin-pretty-module-classnames</strong></p>
+        <p><strong>vite-plugin-readable-classnames</strong></p>
         <p>
           Pretty Module Classnames — это плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
         </p>
@@ -64,9 +64,9 @@
           <strong>Стек:</strong> <code>Typescript, TSDown, Vitest</code><br>
         </p>
         <strong>
-          <a href="https://www.npmjs.com/package/vite-plugin-pretty-module-classnames">Npmjs.org</a>
+          <a href="https://www.npmjs.com/package/vite-plugin-readable-classnames">Npmjs.org</a>
         ·
-          <a href="https://github.com/teplostanski/vite-plugin-pretty-module-classnames">Репозиторий</a>
+          <a href="https://github.com/teplostanski/vite-plugin-readable-classnames">Репозиторий</a>
         </strong>
       </td>
     </tr>
