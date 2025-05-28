@@ -7,7 +7,7 @@
     Frontend Developer 👨🏻‍💻
 </h1>
   
-[<img src="https://img.shields.io/badge/-igor@teplostanski.dev-0d1117?style=flat-square&logo=maildotru">](mailto:teplostanski@yandex.ru) 
+[<img src="https://img.shields.io/badge/-igor@teplostan.ski-0d1117?style=flat-square&logo=maildotru">](mailto:teplostanski@yandex.ru) 
 [<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=flat-square&logo=Telegram">](https://t.me/teplostanski) 
 [<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski) 
 [<img src="https://img.shields.io/badge/-gists-0d1117?style=flat-square&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski) 
