@@ -168,7 +168,7 @@
 
 ### Контакты:
 
-✉️ Email: [igor@teplostanski.dev](mailto:igor@teplostanski.dev)
+✉️ Email: [igor@teplostan.ski](mailto:igor@teplostan.ski) | [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
 
 📬 Telegram: [@teplostanski](https://t.me/teplostanski)
 
