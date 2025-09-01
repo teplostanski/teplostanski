@@ -1,3 +1,15 @@
+<p align="center">
+  <samp>
+    <a href="https://teplostan.ski">me</a> .
+    <a href="mailto:igor@teplostan.ski">email</a> .
+    <a href="https://t.me/teplostanski">telegram</a> .
+    <a href="https://bsky.app/profile/teplostan.ski">bluesky</a> .
+    <a href="https://gist.github.com/teplostanski">gists</a> .
+    <a href="https://doka.guide/people/teplostanski/">doka.guide</a> .
+    <a href="https://codepen.io/teplostanski">codepen</a>
+  </samp>
+</p>
+
 <div  align="center">
   <h1>Привет! Я 
     <a href="https://github.com/teplostanski" target="_blank">
@@ -6,12 +18,6 @@
     <img src="https://github.com/teplostanski/teplostanski/raw/main/Hi.gif" height="32">
     Frontend Developer 👨🏻‍💻
 </h1>
-  
-[<img src="https://img.shields.io/badge/-igor@teplostan.ski-0d1117?style=flat-square&logo=maildotru">](mailto:teplostanski@yandex.ru) 
-[<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=flat-square&logo=Telegram">](https://t.me/teplostanski) 
-[<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski) 
-[<img src="https://img.shields.io/badge/-gists-0d1117?style=flat-square&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski) 
-[<img src="https://img.shields.io/badge/-doka.guide-0d1117?style=flat-square">](https://doka.guide/people/teplostanski/)
 
 <!--
 [<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow/r/539700?style=for-the-badge&logo=stackoverflow&logoColor=1E5397&label=ru.stackoverflow.com&labelColor=0d1117&color=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
