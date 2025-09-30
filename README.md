@@ -35,12 +35,10 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)
 ![Astro](https://img.shields.io/badge/-Astrо-0d1117?style=for-the-badge&logo=Astro)
 ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
-![Zustand](https://img.shields.io/badge/-Zustand-0d1117?style=for-the-badge&logo=Zustand)
 ![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass)
 ![Vte](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=Vite)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Oclif](https://img.shields.io/badge/oclif-%23FFFFFF.svg?style=for-the-badge&logo=oclif&logoColor=%23000000)
+![Golang](https://img.shields.io/badge/golang-%23ffffff.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 
 ---
 
