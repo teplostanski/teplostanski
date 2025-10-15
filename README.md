@@ -1,15 +1,15 @@
 <p align="center">
   <samp>
-    <a href="https://teplostan.ski">me</a> ·
-    <a href="mailto:igor@teplostan.ski">email</a> ·
+    <a href="https://teplostanski.me">me</a> ·
+    <a href="mailto:igor@teplostanski.me">email</a> ·
     <a href="https://t.me/teplostanski">telegram</a> ·
-    <a href="https://bsky.app/profile/teplostan.ski">bluesky</a> ·
+    <a href="https://bsky.app/profile/teplostanski.me">bluesky</a> ·
     <a href="https://gist.github.com/teplostanski">gists</a> ·
     <a href="https://doka.guide/people/teplostanski/">doka.guide</a> ·
     <a href="https://codepen.io/teplostanski">codepen</a> ·
     <a href="https://keyoxide.org/5628A324816DF3C202799215ABE46FF36CB6A99B">keyoxide</a> ·
     <a href="https://codeberg.org/teplostanski">codeberg</a> ·
-    <a href="https://tangled.org/@teplostan.ski">tangled</a>
+    <a href="https://tangled.org/@teplostanski.me">tangled</a>
   </samp>
 </p>
 
@@ -168,9 +168,15 @@
 
 ### Контакты:
 
-✉️ Email: [igor@teplostan.ski](mailto:igor@teplostan.ski) | [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
+<samp>
+
+✉️ Email: [igor@teplostanski.me](mailto:igor@teplostanski.me) / [teplostanski@yandex.ru](mailto:teplostanski@yandex.ru)
 
 📬 Telegram: [@teplostanski](https://t.me/teplostanski)
+
+🦋 bluesky: [@teplostanski.me](https://bsky.app/profile/teplostanski.me)
+
+</samp>
 
 <br/>
 
