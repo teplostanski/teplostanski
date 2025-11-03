@@ -64,7 +64,7 @@
           <strong>Стек:</strong> <code>Typescript, TSDown, Vitest</code><br>
         </p>
         <strong>
-          <a href="https://www.npmjs.com/package/vite-plugin-readable-classnames">Npmjs.org</a>
+          <a href="https://www.npmjs.com/package/vite-plugin-readable-classnames">Npm</a>
         ·
           <a href="https://github.com/teplostanski/vite-plugin-readable-classnames">Репозиторий</a>
         </strong>
