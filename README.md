@@ -44,7 +44,7 @@
       <td>
         <p><strong>vite-plugin-readable-classnames</strong></p>
         <p>
-          Плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
+          Плагин для Vite, который нормализует автоматически сгенерированные имена классов в CSS-модулях.
         </p>
         <p>
           <strong>Стек:</strong> <code>Typescript, TSDown, Vitest</code><br>
