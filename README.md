@@ -26,9 +26,9 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![ReactJS](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=Next.js)
-![Vue](https://img.shields.io/badge/-Vue-0d1117?style=for-the-badge&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)
 ![Astro](https://img.shields.io/badge/-Astrо-0d1117?style=for-the-badge&logo=Astro)
+<!--![Vue](https://img.shields.io/badge/-Vue-0d1117?style=for-the-badge&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)-->
 
 ---
 
