@@ -42,7 +42,7 @@
         <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/settime.ru.webp">
       </td>
       <td>
-        <p><strong>settime</strong></p>
+        <p><strong>settime.ru</strong></p>
         <p>
           Точное время онлайн. Сверяет часы устройства с эталонным сервером времени по WebSocket.
         </p>
@@ -50,7 +50,7 @@
           <strong>Стек:</strong> <code>React 19, TypeScript, Vite, Redux Toolkit, dayjs, Zod, WebSocket</code><br>
         </p>
         <strong>
-          <a href="https://settime.ru">Демо</a>
+          <a href="https://settime.ru">Приложение</a>
         ·
           <a href="https://github.com/teplostanski/settime.ru">Репозиторий</a>
         </strong>
