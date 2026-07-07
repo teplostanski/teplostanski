@@ -1,72 +1,77 @@
-<div  align="center">
-  <h1>Привет! Я 
-    <a href="https://github.com/teplostanski" target="_blank">
-      Игорь
-    </a> 
-    <img src="https://github.com/teplostanski/teplostanski/raw/main/Hi.gif" height="32">
-    Frontend Developer 👨🏻‍💻
-</h1>
-  
-[<img src="https://img.shields.io/badge/-igor@teplostanski.dev-0d1117?style=flat-square&logo=maildotru">](mailto:teplostanski@yandex.ru) 
-[<img src="https://img.shields.io/badge/-@teplostanski-0d1117?style=flat-square&logo=Telegram">](https://t.me/teplostanski) 
-[<img src="https://www.codewars.com/users/teplostanski/badges/micro">](https://www.codewars.com/users/teplostanski) 
-[<img src="https://img.shields.io/badge/-gists-0d1117?style=flat-square&logo=Github&logoColor=%23#181717">](https://gist.github.com/teplostanski) 
-[<img src="https://img.shields.io/badge/-doka.guide-0d1117?style=flat-square">](https://doka.guide/people/teplostanski/)
+<p align="center">
+  <samp>
+    <a href="https://teplostanski.me">me</a> ·
+    <a href="mailto:igor@teplostanski.me">email</a> ·
+    <a href="https://t.me/teplostanski">telegram</a> ·
+    <a href="https://bsky.app/profile/teplostanski.me">bluesky</a> ·
+    <a href="https://gist.github.com/teplostanski">gists</a> ·
+    <a href="https://doka.guide/people/teplostanski/">doka.guide</a> ·
+    <a href="https://codepen.io/teplostanski">codepen</a> ·
+    <a href="https://keyoxide.org/5628A324816DF3C202799215ABE46FF36CB6A99B">keyoxide</a><!--  ·
+    <a href="https://codeberg.org/teplostanski">codeberg</a> ·
+    <a href="https://tangled.org/@teplostanski.me">tangled</a> -->
+  </samp>
+</p>
 
-<!--
-[<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow/r/539700?style=for-the-badge&logo=stackoverflow&logoColor=1E5397&label=ru.stackoverflow.com&labelColor=0d1117&color=%231E5397">](https://ru.stackoverflow.com/users/539700/teplostanski)
--->
+<br>
+
+<div  align="center">
+  <h2>Привет! Я Игорь 👋 <br>
+     Typescript разработчик и open-source энтузиаст</h2>
 </div>
 
-### О себе:
-
-- 👨‍💻 Стараюсь писать чистый, читабельный код
-- 💾 Создаю npm пакеты
-- 🚀 Осваиваю новые технологии
-- ✍️ Пишу статьи для [Доки](https://doka.guide/people/teplostanski/)
-
-### Мой стэк
+<br>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![ReactJS](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=Next.js)
-![Vue](https://img.shields.io/badge/-Vue-0d1117?style=for-the-badge&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)
 ![Astro](https://img.shields.io/badge/-Astrо-0d1117?style=for-the-badge&logo=Astro)
-![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
-![Zustand](https://img.shields.io/badge/-Zustand-0d1117?style=for-the-badge&logo=Zustand)
-![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass)
-![Vte](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=Vite)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Oclif](https://img.shields.io/badge/oclif-%23FFFFFF.svg?style=for-the-badge&logo=oclif&logoColor=%23000000)
+<!--![Vue](https://img.shields.io/badge/-Vue-0d1117?style=for-the-badge&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)-->
 
 ---
-
-### Портфолио
 
 <table>
   <tbody>
     <tr>
-      <th colspan="2">Проекты</th>
+      <th colspan="2">Мои работы:</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/settime.ru.webp">
+      </td>
+      <td>
+        <p><strong>settime</strong></p>
+        <p>
+          Точное время онлайн. Сверяет часы устройства с эталонным сервером времени по WebSocket.
+        </p>
+        <p>
+          <strong>Стек:</strong> <code>React 19, TypeScript, Vite, Redux Toolkit, dayjs, Zod, WebSocket</code><br>
+        </p>
+        <strong>
+          <a href="https://settime.ru">Демо</a>
+        ·
+          <a href="https://github.com/teplostanski/settime.ru">Репозиторий</a>
+        </strong>
+      </td>
     </tr>
     <tr>
       <td>
         <img width="48px" src="https://cdn.simpleicons.org/npm">
       </td>
       <td>
-        <p><strong>vite-plugin-pretty-module-classnames</strong></p>
+        <p><strong>vite-plugin-readable-classnames</strong></p>
         <p>
-          Pretty Module Classnames — это плагин для Vite, который исправляет проблемы с именованием классов в CSS модулях.
+          Плагин для Vite, который нормализует автоматически сгенерированные имена классов в CSS-модулях.
         </p>
         <p>
-          <strong>Стек:</strong> <code>Typescript, Vite, Vitest</code><br>
+          <strong>Стек:</strong> <code>Typescript, TSDown, Vitest</code><br>
         </p>
         <strong>
-          <a href="https://www.npmjs.com/package/vite-plugin-pretty-module-classnames">Npmjs.org</a>
+          <a href="https://www.npmjs.com/package/vite-plugin-readable-classnames">Npm</a>
         ·
-          <a href="https://github.com/teplostanski/vite-plugin-pretty-module-classnames">Репозиторий</a>
+          <a href="https://github.com/teplostanski/vite-plugin-readable-classnames">Репозиторий</a>
         </strong>
       </td>
     </tr>
@@ -77,67 +82,15 @@
       <td>
         <p><strong>Masonry Gallery</strong></p>
         <p>
-          Галерея изображений с плиточной раскладкой в стиле Pinterest. При клике на изображение открывается полноэкранное модальное окно с возможностью перелистывания свайпом.
+          Галерея изображений с плиточной раскладкой в стиле Pinterest на Tailwind CSS.
         </p>
         <p>
           <strong>Стек:</strong> <code>React, TypeScript, Vite, Tailwind, HeroUI(NextUI), Swiper, Vitest</code><br>
         </p>
         <strong>
-          <a href="https://github.com/teplostanski/masonry-gallery-tailwind">Демо</a>
+          <a href="https://teplostanski.github.io/masonry-gallery-tailwind">Демо</a>
         ·
           <a href="https://github.com/teplostanski/masonry-gallery-tailwind">Репозиторий</a>
-        </strong>
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2">Тестовые проекты</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/world-events-timeline.png">
-      </td>
-      <td>
-        <p><strong>World Events Timeline</strong></p>
-        <p>
-          Интерактивное веб-приложение для визуализации исторических событий в различных сферах: кино, искусство, наука, литература, музыка и спорт.
-        </p>
-        <p>
-          <strong>Стек:</strong> <code>React, TypeScript, Vite, SCSS Modules, Swiper</code><br>
-        </p>
-        <strong>
-          <a href="https://github.com/teplostanski/world-events-timeline">Демо</a>
-        ·
-          <a href="https://github.com/teplostanski/world-events-timeline">Репозиторий</a>
-        </strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/test-task-fewcha-github-searcher.png">
-      </td>
-      <td>
-        <p><strong>GitHub Searcher</strong></p>
-        <p>Интерактивное React-приложение для просмотра GitHub репозиториев пользователей.</p>
-        <p><strong>Стек:</strong> <code>React, TypeScript, Redux-toolkit, RTK-Query, Vite, Tailwind, HeroUI(NextUI), Vitest</code></p>
-        <strong>
-          <a href="https://teplostanski.github.io/test-task-fewcha-github-searcher/">Демо</a>
-          ·
-          <a href="https://github.com/teplostanski/test-task-fewcha-github-searcher">Репозиторий</a>
-        </strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/teplostanski/teplostanski/refs/heads/main/assets/test-task-moi-sklad-react-table.png">
-      </td>
-      <td>
-        <p><strong>React Table</strong></p>
-        <p>Таблица пользователей</p>
-        <p><strong>Стек:</strong> <code>React 19, TypeScript, Redux-toolkit, RTK-Query, Vite, CSS Modules, Vitest</code></p>
-        <strong>
-          <a href="https://teplostanski.github.io/test-task-moi-sklad-react-table/">Демо</a>
-          ·
-          <a href="https://github.com/teplostanski/test-task-moi-sklad-react-table">Репозиторий</a>
         </strong>
       </td>
     </tr>
@@ -152,24 +105,12 @@
 <a href="http://www.github.com/teplostanski"><img src="https://github-readme-stats.vercel.app/api?username=teplostanski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="teplostanski's GitHub stats" /></a>
 <a href="https://github.com/teplostanski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplostanski&layout=compact&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20%Languages" alt="languages graph" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=teplostanski&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=ru" />
-</div>
-
-<!--
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teplostanski&theme=github-compact&height=300&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img alt="Codewars" src="https://github.r2v.ch/codewars?user=teplostanski&name=true&top_languages=false&stroke=%230d1117">
-
-<br>
--->
+  </div>
 
 ### Контакты:
 
-✉️ Email: [igor@teplostanski.dev](mailto:igor@teplostanski.dev)
-
-📬 Telegram: [@teplostanski](https://t.me/teplostanski)
-
-<br/>
-
-<div align="end">
-  <img src="https://komarev.com/ghpvc/?username=teplostanski&style=for-the-badge&color=07912E">
-</div>
+<samp>
+✉️ Email: <a href="mailto:igor@teplostanski.me">igor@teplostanski.me</a> / <a href="mailto:teplostanski@yandex.ru">teplostanski@yandex.ru</a><br>
+📬 Telegram: <a href="https://t.me/teplostanski">@teplostanski</a><br>
+🦋 Bluesky: <a href="https://bsky.app/profile/teplostanski.me">@teplostanski.me</a>
+</samp>
