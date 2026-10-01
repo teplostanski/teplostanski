@@ -9,3 +9,7 @@
     <a href="https://tangled.org/@teplostanski.me">tangled</a> -->
   </samp>
 </p>
+
+<br>
+
+<samp>If my code has been helpful to you, kindly consider [sponsoring me](https://thanks.teplostanski.me).</samp>
