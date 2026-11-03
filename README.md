@@ -13,4 +13,34 @@
 
 <br>
 
-<samp>If my code has been helpful to you, kindly consider [sponsoring me](https://thanks.teplostanski.me).</samp>
+<samp>
+
+  <a href="https://github.com/teplostanski/undevice">undevice</a> · <i>npm package</i> · <a href="https://undevice.hacks.run/">docs</a>
+  <br>
+  <b>Unified Device Detector</b>
+
+  <p>
+    Detect devices, operating systems, and browsers from User-Agent and CDN headers in Node.js, browsers, and edge runtimes.
+  </p>
+
+  <a href="https://github.com/teplostanski/200ok">200ok</a> · <i>public REST API</i> · <a href="https://200ok.hacks.run/">docs</a>
+  <br>
+  <b>HTTP Request & Response Service</b>
+
+  <p>
+    Inspect HTTP requests, test responses, and debug integrations.
+  </p>
+
+  <a href="https://github.com/teplostanski/rand">rand</a> · <i>public REST API</i> · <a href="https://rand.hacks.run/">docs</a>
+  <br>
+  <b>Secure Random Strings &amp; IDs</b>
+
+  <p>
+    Cryptographically secure random strings and IDs through a simple API.
+  </p>
+
+</samp>
+
+<br>
+
+<samp>If my code has been helpful to you, kindly consider <a href="https://thanks.teplostanski.me">sponsoring me</a>.</samp>
